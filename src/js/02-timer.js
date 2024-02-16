@@ -48,8 +48,6 @@ function onStartBtn(milliseconds) {
         } else {
             clearInterval(intervalId);
         }
-        
-        
     }, 1000);
 }
 
